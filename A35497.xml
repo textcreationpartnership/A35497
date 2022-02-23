@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of paintings, drawings, and prints, by the best masters. With several books of Roman antiquities, statues, coines, travels, &amp;c. Will be sold by auction on Friday the 21st of this instant June, 1689. at Tom's Coffee-House, in Pope's-Head-Alley, over against the Royal-Exchange, Cornhill The sale beginning precisely at four of the clock in the afternoon. Catalogues of which are distributed by Mr. Gilliflower, in Westminster-Hall: Mr. Nott in the Pall-Mall: Mr. Bently in Russel-street, Covent-Garden: Mr. Wilkinson in Fleet-street: Mr. Miller in St. Paul's Church-yard: and Mr. Crouch over against the Royal-Exchange, in Cornhill, booksellers. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after it at the said place.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35497</idno>
+            <idno type="STC">Wing C7670</idno>
+            <idno type="STC">ESTC R214429</idno>
+            <idno type="EEBO-CITATION">99826604</idno>
+            <idno type="PROQUEST">99826604</idno>
+            <idno type="VID">31007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of paintings, drawings, and prints, by the best masters. With several books of Roman antiquities, statues, coines, travels, &amp;c. Will be sold by auction on Friday the 21st of this instant June, 1689. at Tom's Coffee-House, in Pope's-Head-Alley, over against the Royal-Exchange, Cornhill The sale beginning precisely at four of the clock in the afternoon. Catalogues of which are distributed by Mr. Gilliflower, in Westminster-Hall: Mr. Nott in the Pall-Mall: Mr. Bently in Russel-street, Covent-Garden: Mr. Wilkinson in Fleet-street: Mr. Miller in St. Paul's Church-yard: and Mr. Crouch over against the Royal-Exchange, in Cornhill, booksellers. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after it at the said place.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: [A]² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice_of_auction">
+            <pb facs="tcp:31007:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:31007:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>A Curious COLLECTION OF <hi>PAINTINGS, DRAWINGS,</hi> and <hi>PRINTS,</hi> by the Beſt MASTERS.</head>
+            <p>With ſeveral Books of <hi>Roman</hi> Antiquities, Statues, Coines, Travels, <hi>&amp;c.</hi>
+            </p>
+            <p>Will be Sold by AUCTION on <hi>Friday</hi> the 21<hi>ſt</hi> of this inſtant <hi>June,</hi> 1689. at <hi>Tom's</hi> Coffee-Houſe, in <hi>Pope's-Head-Alley,</hi> over againſt the <hi>Royal-Exchange, Cornhill.</hi>
+            </p>
+            <p>The Sale beginning preciſely at Four of the Clock in the Afternoon.</p>
+            <p>Catalogues of which are diſtributed by Mr. <hi>Gilliflower,</hi> in <hi>Weſtminſter-Hall:</hi> Mr. <hi>Nott</hi> in the <hi>Pall-Mall:</hi> Mr. <hi>Bently</hi> in <hi>Ruſſel-ſtreet, Covent-Garden:</hi> Mr. <hi>Wilkinſon</hi> in <hi>Fleet-ſtreet:</hi> Mr. <hi>Miller</hi> in St. <hi>Paul's</hi> Church-yard: And Mr. <hi>Crouch</hi> over againſt the <hi>Royal-Exchange,</hi> in <hi>Cornhill,</hi> Bookſellers.</p>
+            <p>
+               <hi>The Conditions of Sale as uſual, and the time of paying and fetching away the Lots ſo bought, to be within Three days after it at the ſaid place.</hi>
+            </p>
+         </div>
+         <div type="catalogue_of_paintings">
+            <pb facs="tcp:31007:2"/>
+            <!-- PDF PAGE 17 -->
+            <list>
+               <head>DRAWINGS.</head>
+               <item>1 A Drawing of <hi>Spranger</hi>
+               </item>
+               <item>2 Two Drawings of <hi>Laurentius Taleſius</hi> of <hi>Judith</hi> and <hi>Olofernes</hi>
+               </item>
+               <item>3 Two Drawings of <hi>Michael-Angelo,</hi> and <hi>Borochus</hi>
+               </item>
+               <item>4 A curious Drawing of <hi>Venturas Salimbine</hi>
+               </item>
+               <item>5 A Drawing of <hi>Abraham Blomaert</hi>
+               </item>
+               <item>6 A Drawing of <hi>Paulo Veroneſe</hi> of the Centurion and our Saviour</item>
+               <item>7 Two Drawings of <hi>Venturas Salimbine,</hi> and an <hi>Italian</hi>
+               </item>
+               <item>8 A Triumph of the Church of <hi>Rubens</hi>
+               </item>
+               <item>9 Four Drawings of a good Maſter</item>
+               <item>10 Two Drawings of <hi>Van Dyck</hi> and <hi>Palluia</hi>
+               </item>
+               <item>11 Three Drawings, one of <hi>Spranger,</hi> the others by a good Hand</item>
+               <item>12 A Drawing of <hi>Francis Floris</hi>
+               </item>
+               <item>13 Three Drawings. The Hiſtory of <hi>Herodia,</hi> with the Head of St. <hi>John, &amp;c.</hi>
+               </item>
+               <item>14 Eight Drawings of ſeveral Maſters.</item>
+               <item>15 A Drawing upon a Frame, of <hi>Pilot</hi> bringing forth our Saviour.</item>
+            </list>
+            <list>
+               <head>PAINTINGS.</head>
+               <item>1 A Flower Piece after <hi>De Heem</hi>
+               </item>
+               <item>2 A Three quarter King <hi>William,</hi> after <hi>Wiſſing</hi>
+               </item>
+               <item>3 Queen <hi>Mary,</hi> after the ſame Maſter</item>
+               <item>4 A Hunting Piece</item>
+               <item>5 A Landskip of <hi>Loten</hi>
+               </item>
+               <item>6 Our preſent King <hi>William</hi> on Horſe-back by <hi>Lemene</hi>
+               </item>
+               <item>7 A Spanniel Dog after <hi>Van Dyck</hi>
+               </item>
+               <item>8 Our preſent King <hi>William</hi> whole length, 3 quarter Cloth</item>
+               <item>9 Our preſent Queen <hi>Mary</hi> of <hi>Ditto</hi>
+               </item>
+               <item>10 King <hi>Charles</hi> the Second, after Sir <hi>Peter Lilly</hi>
+               </item>
+               <item>11 A <hi>Pallace</hi>
+               </item>
+               <item>12 A Landskip of <hi>Nichols</hi>
+               </item>
+               <item>13 A little Dog after <hi>Van Dyck</hi>
+               </item>
+               <item>14 A Hare and a Dog</item>
+               <item>15 A piece of Monkies after <hi>Snyders</hi>
+               </item>
+               <item>16 Twelve Heads of <hi>Van Dyck</hi>
+               </item>
+               <item>17 A Landskip of a Ruin</item>
+               <item>18 A Fruit piece of <hi>Fio,</hi> ſeven foot long, and five deep</item>
+               <item>19 A Winter piece of <hi>Mompert</hi> and <hi>Brughell</hi>
+               </item>
+               <item>20 A <hi>Floria,</hi> five foot ſquare</item>
+               <item>21 A Banquet of the Gods, by <hi>Spranger,</hi> 6 foot long, and 5 foot deep</item>
+               <item>22 A Landskip, 6 foot long, and 5 foot deep, finely finiſht</item>
+               <item>23 A Schetch by <hi>Boneſt</hi>
+               </item>
+               <item>24 <hi>Tobit</hi> and his Dog</item>
+               <item>25 A Crucifix</item>
+               <item>26 A Piece of Cows and Sheep</item>
+               <item>27 A Piece of the Fire of <hi>London</hi>
+               </item>
+               <item>28 Old Man's Head, with a Bag in his Hand</item>
+               <item>29 A very large Landskip</item>
+               <item>
+                  <pb facs="tcp:31007:2"/>
+                  <!-- PDF PAGE 17 -->
+30 The Lord <hi>Rocheſter</hi> upon Copper</item>
+               <item>31 His Lady upon the ſame</item>
+               <item>32 Triumphs of <hi>Bacchus</hi> of <hi>Champaigne</hi>
+               </item>
+               <item>33 A View of <hi>Dover</hi> by <hi>Skiner</hi>
+               </item>
+               <item>34 A View of <hi>Portſmouth,</hi> by the ſame</item>
+               <item>35 A <hi>Leda</hi> by an <hi>Italian</hi> Maſter</item>
+               <item>36 A <hi>Venus</hi> and <hi>Bacchus,</hi> by <hi>Van Oſt</hi>
+               </item>
+               <item>37 <hi>Jonas</hi> curiouſly Painted by Mr. <hi>Burton.</hi>
+               </item>
+               <item>38 An old Man lighting a Pipe at a Torch, done by a good Hand</item>
+               <item>39 A <hi>Venus</hi> a ſleep with a Satyr and a <hi>Cupid</hi>
+               </item>
+               <item>40 A <hi>Venus</hi> and <hi>Adonis</hi>
+               </item>
+               <item>41 A <hi>Diana</hi> aſleep</item>
+               <item>42 A <hi>Vertumnus</hi> and <hi>Pomona</hi>
+               </item>
+               <item>43 A Landskip of a Dutch Maſter</item>
+               <item>44 A Piece of Flowers, by <hi>Baptiſt</hi>
+               </item>
+               <item>45 A Droll of an Owl reading by a Candle</item>
+               <item>46 Buildings and Ruins, done by <hi>Polenbergh</hi>
+               </item>
+               <item>47 A Nuns Head, done by <hi>Willeboorts.</hi>
+               </item>
+               <item>48 A Landskip, done by <hi>Crooft</hi>
+               </item>
+               <item>49 A Rock with neat Figures</item>
+               <item>50 A Monkey with Fruit</item>
+               <item>51 A Head of Prince <hi>Maurice,</hi> done by <hi>Michael Merevelt</hi>
+               </item>
+               <item>52 St. <hi>Peter</hi> in Priſon, by <hi>Franc. Floris</hi>
+               </item>
+               <item>53 An old Woman, by <hi>Van Dyck</hi>
+               </item>
+               <item>54 A St. <hi>Paul</hi> well Painted</item>
+               <item>55 The Salutation of the Virgin <hi>Mary</hi> and <hi>Elizabeth</hi>
+               </item>
+               <item>56 <hi>Abraham, Sarah,</hi> &amp; the Angel, well Painted</item>
+               <item>57 A Head of <hi>Jordaen</hi>'s</item>
+               <item>58 A Head of <hi>Jorgone</hi>
+               </item>
+               <item>59 Two Heads of <hi>Schutt</hi>
+               </item>
+               <item>60 A fine Piece of Fruit in a Feeſton</item>
+               <item>61 A large Piece of <hi>Venus, Adonis</hi> and <hi>Cupid,</hi> by <hi>Van Deſt.</hi>
+               </item>
+               <item>62 A <hi>Cleopatra</hi> neatly Painted</item>
+               <item>63 A Head of St. <hi>Patrick</hi>
+               </item>
+               <item>64 A Cat with Fiſh</item>
+               <item>65 A Court a Guard, by a Dutch Maſter</item>
+               <item>66 A Proſpect of a Rock with Figures and Statues by a Dutch Maſter</item>
+               <item>67 A Countrey Houſe with an Oven and Figures.</item>
+               <item>68 Two Heads of <hi>Van Hook</hi>
+               </item>
+               <item>69 A Landskip with Rocks and Mountains, by a Dutch Maſter</item>
+               <item>70 A Fool after <hi>Jordans</hi>
+               </item>
+               <item>71 Two Heads of a Dutch Maſter</item>
+               <item>72 Old Womans Head after <hi>Rembrant</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:31007:3"/>
+               <!-- PDF PAGE 18 -->
+               <head>PRINTS.</head>
+               <item>1 OUr Saviour and St. <hi>John,</hi> done by <hi>Poilly</hi>
+               </item>
+               <item>2 Our Saviour and St. <hi>John,</hi> done by <hi>Natalis</hi>
+               </item>
+               <item>3 Six of <hi>Dorigny, Poſſin,</hi> and others</item>
+               <item>4 A large Droll, done by <hi>Viſcher,</hi> after <hi>Perghem</hi>
+               </item>
+               <item>5 Two of <hi>Laris</hi> and <hi>Blomaert</hi>
+               </item>
+               <item>6 Two Heads of <hi>P. Pontius</hi>
+               </item>
+               <item>7 Four of <hi>Lucas, Kilianus,</hi> and others</item>
+               <item>8 Two of <hi>Guido Rhenes</hi> and <hi>Poſſine</hi>
+               </item>
+               <item>9 The Jews Sinagogue at <hi>Amſterdam,</hi> by <hi>Roman de Hooge</hi>
+               </item>
+               <item>10 <hi>Venus</hi> and <hi>Adonis,</hi> by <hi>Van Dyck</hi>
+               </item>
+               <item>11 The Golden Age, by <hi>Abraham Blomaert</hi>
+               </item>
+               <item>12 Two of <hi>Guido Rhenes</hi> and <hi>Corregio</hi>
+               </item>
+               <item>13 Three of <hi>Van Dyck</hi> and <hi>Rubens</hi>
+               </item>
+               <item>14 A Biſhop's Head by <hi>Nantueill</hi>
+               </item>
+               <item>15 Three of <hi>Blotling</hi> and others</item>
+               <item>16 The three <hi>Roman</hi> Statues, done by <hi>Muller</hi>
+               </item>
+            </list>
+            <list>
+               <head>Books of <hi>Roman</hi> Antiquities, Statues, Coines, Travels, <hi>&amp;c.</hi>
+               </head>
+               <item>1 <hi>JAc. Laurus</hi> Ancient Buildings of <hi>Rome,</hi> in Copper Plates, Folio</item>
+               <item>2 Sam. Patini familiae Romanae Fulvii Urſini</item>
+               <item>3 Gallery of Heroick Women, in <hi>French,</hi> with figures</item>
+               <item>4 <hi>Cavallerii</hi>'s book of <hi>Roman</hi> ſtatues</item>
+               <item>5 <hi>L'Art de Peinture de Du-freſne avec Poſtures</hi>
+               </item>
+               <item>6 Book of Roman ſtatues, by <hi>Francis Perier</hi>
+               </item>
+               <item>7 Book of <hi>Roman Antiquities,</hi> by <hi>Boiſſard</hi>
+               </item>
+               <item>8 <hi>Ogilby</hi>'s Roads of <hi>England,</hi> Folio</item>
+               <item>9 Book of Coines, of Roman Emperours, by <hi>P. Strada</hi>
+               </item>
+               <item>10 <hi>Wheelers</hi> Travels into <hi>Greece,</hi> with figures</item>
+               <item>11 A large book for Prints</item>
+               <item>12 <hi>And. Sellers Atlas Coeleſtis,</hi> with curious Copper Plates</item>
+               <item>13 The firſt Edition of <hi>Trajans</hi> Column in <hi>Rome,</hi> in 130 Copper Plates</item>
+               <item>14 <hi>Ath. Kirchers China,</hi> illuſtrated with Cuts, <hi>Lat.</hi>
+               </item>
+               <item>15 <hi>John James</hi> Military Art for the Infantry, <hi>French</hi>
+               </item>
+               <item>16 <hi>Jod. Hondius</hi> modern deſcription of <hi>Italy</hi>
+               </item>
+               <item>17 The Maid of <hi>Orleans,</hi> in <hi>French</hi> Verſe, with curious figures</item>
+               <item>18 Embaſſy into <hi>Tartary,</hi> with figures, <hi>Lat.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31007:3"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
